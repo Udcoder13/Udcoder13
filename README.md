@@ -1,11 +1,11 @@
  <h1 align="center">Hi 👋, I'm Udit Yadav</h1>
 <h3 align="center">A passionate Django developer from India</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working as a **Backend Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Udcoder13?tab=repositories](https://github.com/Udcoder13?tab=repositories)
 
-- 💬 Ask me about **Python, Django.**
+- 💬 Ask me about **Python, Django , nodejs , Express , MongoDB , React.**
 
 - 📫 How to reach me **udy2580y@gmail.com**
 
